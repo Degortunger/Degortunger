@@ -1,9 +1,11 @@
-## Hello, I'm Bruno 👋
+## Hello, I'm Bruno Eusébio 👋
+
+Here are some ideas to get you started:
 
 <!--
 **Degortunger/Degortunger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
