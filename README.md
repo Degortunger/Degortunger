@@ -8,6 +8,8 @@
 <a href="https://instagram.com/_bafe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_bafe" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Skills:</h3>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
