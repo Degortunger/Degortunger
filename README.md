@@ -25,7 +25,12 @@
 
 <h3 align="left">To keep my focus, I'm listening:</h3>
 
+<span align="center">
+
 [![Spotify](https://novatoremprofile.vercel.app/api/spotify)](https://open.spotify.com/user/11139642116)
+
+
+</span>
 
 <!--
 **Degortunger/Degortunger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
