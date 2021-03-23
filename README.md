@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, My name is Bruno Eusébio</h1>
 <h3 align="center">I'm a Front-End Developer 💻</h3>
 
-- 🔭 I’m currently working on **hes-inovação**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brunoafe96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brunoafe96" height="30" width="40" /></a>
