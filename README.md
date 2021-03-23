@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Bruno Eusébio</h1>
 <h3 align="center">I'm a Front-End Developer 💻</h3>
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p>
   <a href=""><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
