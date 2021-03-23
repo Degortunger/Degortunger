@@ -23,7 +23,7 @@
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h3 align="center">To keep my focus, I'm listening</h3>
+<h3 align="center">To keep my focus, I'm listening 🎧</h3>
 
 <span align="center">
 
