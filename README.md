@@ -49,9 +49,3 @@ I also work with **Vue.js** and **React Native**, and I have experience integrat
 - Improving database performance and query efficiency
 - Working on personal products and side projects
 
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Degortunger&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Degortunger&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
