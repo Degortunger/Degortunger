@@ -19,5 +19,3 @@ Laravel • .NET • SQL Server • JavaScript • Vue.js • React Native
 
 ---
 
-### Projects
-- Finder (in progress) – platform for searching and managing companies
